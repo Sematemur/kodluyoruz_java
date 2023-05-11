@@ -1,2 +1,2 @@
-# kodluyoruz_java
- kodluyoruzjavaeğitimi
+# KODLUYORUZ JAVA EĞİTİMİ 
+Not ortalaması Hesaplayıcı
