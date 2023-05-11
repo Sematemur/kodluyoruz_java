@@ -1,4 +1,4 @@
 KODLUYORUZ JAVA EĞİTİMİ 
-Not ortalaması Hesaplayıcı 
+ 
 
-![image](https://github.com/Sematemur/kodluyoruz_java/assets/99514111/9b23eef4-cac3-449c-91dd-4a8eb5aa4b98)
+![image](https://github.com/Sematemur/kodluyoruz_java/assets/99514111/a1cf10a7-d0b9-4be5-8ac2-62ba770a0d5b)
